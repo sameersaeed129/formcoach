@@ -1,7 +1,7 @@
 # FormCoach — AI Sports Biomechanics Analyzer & Movement Coach
 
 FormCoach analyzes workout videos (starting with squats) and tells you
-exactly what your form is doing right or wrong — not just a rep count.
+exactly what your form is doing right or wrong, not just a rep count.
 It tracks your skeleton frame by frame, measures real biomechanical joint
 angles, automatically detects and counts reps, classifies each rep's form
 quality with a neural network, scores how closely it matches an ideal
