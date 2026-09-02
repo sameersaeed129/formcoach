@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.log
+.streamlit/
+*.mp4
+*.mov
+*.avi
